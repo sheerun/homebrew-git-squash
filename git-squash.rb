@@ -6,7 +6,7 @@ class GitSquash < Formula
   head "https://github.com/sheerun/git-squash.git"
 
   def install
-    bin.install "git-hooks"
+    bin.install "git-squash"
   end
 
   test do
