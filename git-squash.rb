@@ -1,8 +1,8 @@
 class GitSquash < Formula
   desc "Squash commits on branch just like GitHub's 'Squash and merge'"
   homepage "https://github.com/sheerun/git-squash"
-  url "https://github.com/sheerun/git-squash/archive/v1.0.0.tar.gz"
-  sha256 "07ad359722b672d35561c66b491335dbb30528641de90b7050567d679499ff9c"
+  url "https://github.com/sheerun/git-squash/archive/v1.0.1.tar.gz"
+  sha256 "6ccaece4c3e93c0d6355a85ba1fc09151f81eca4693c58f79709d2301a9d9629"
   head "https://github.com/sheerun/git-squash.git"
 
   def install
